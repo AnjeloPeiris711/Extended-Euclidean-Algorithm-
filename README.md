@@ -2,5 +2,5 @@
 GCD
 ### Calculate
 
-- [vue-github-button]Euclidean-Algorithm
-- [react-github-btn]Extended-Euclidean-Algorithm
+- Euclidean-Algorithm
+- Extended-Euclidean-Algorithm
